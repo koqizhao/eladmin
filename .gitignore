@@ -4,3 +4,8 @@
 */target/*
 */*.iml
 /.gradle/
+.metadata
+.classpath
+.project
+.settings
+.factorypath
